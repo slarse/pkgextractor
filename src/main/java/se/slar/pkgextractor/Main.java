@@ -1,4 +1,4 @@
-package se.slarse.pkgextractor;
+package se.slar.pkgextractor;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
