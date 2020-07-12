@@ -5,7 +5,7 @@ A minimal CLI application that extracts the package declaration from a `.class` 
 Running `pkgextractor` requires a Java runtime version 8 or higher.
 
 ### Usage
-Get the jar-file from [the latest release](https://github.com/slarse/pkgextractor/releases/tag/v1.0.0) and download
+Get the jar-file from [the latest release](https://github.com/slarse/pkgextractor/releases/tag/v1.0.1) and download
 it. Then run it like so.
 
 ```
